@@ -1,2 +1,2 @@
 # Linked-List
-Implementation of linked lists and various functions of it from scratch, using C#, for a data structure course project.
+In the first project, I designed the main LinkedList class with some requested functions, and also implemented a Queue data structure using my custom LinkedList class.
